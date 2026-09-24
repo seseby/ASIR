@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="videconferencia.xsd" xmlns:xsi="http://www.w3.org/2" xsi:noNamespaceSchemaLocation="eventos.xsd">
+    <informacion>
+        <nombre>TEch Conference 2026</nombre>
+        <fecha>2026-10-15</fecha>
+        <lugar>Palacio </lugar>
+    </informacion>
+    <asistente>
+        <nombre>Laura Gomez</nombre>
+        <email></email>
+        <dni></dni>
+    </asistente>
+    <entradas>
+        <entrada tipo="VIP">
+            <codigo>TC2026-VIP-001</codigo>
+            <precio moneda="EUR">150.00</precio>
+        </entrada>
+        <entrada tipo="General">
+            <codigo>TC2026-GEN-042</codigo>
+            <precio moneda="EUR">45.00</precio>
+        </entrada>
+    </entradas>
+</xs:schema>   
