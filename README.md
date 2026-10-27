@@ -7,7 +7,7 @@
 
 ## 📌 Sobre este Repositorio
 
-Este repositorio contiene la **bóveda completa de Obsidian** utilizada para la documentación técnica, resúmenes de clase, guías de comandos y laboratorios prácticos durante el ciclo de **ASIR**.
+Este repositorio contiene la **bóveda completa de Obsidian** utilizada para la documentación técnica y laboratorios prácticos durante el ciclo de **ASIR**.
 
 El objetivo de mantener esta bóveda pública es construir un **cuaderno de trabajo técnico, portátil y estructurado**, aplicando buenas prácticas de documentación en Markdown y control de versiones con Git desde el primer día.
 
@@ -22,23 +22,10 @@ La bóveda está organizada modularmente para separar la teoría, los conceptos 
 ├── 📁 Inteligencia Artificial/        # Fundamentos de IA, Prompts Activos y Ética profesional
 │   └── 📄 Apuntes.md
 ├── 📁 M01 - Implantación de sistemas operativos/
-│   ├── 📁 01 - Sesiones/              # Resúmenes cronológicos de clase
-│   ├── 📁 02 - Conceptos/             # Fichas teóricas y arquitectura de SO
-│   ├── 📁 03 - Comandos/              # Guías de Linux, PowerShell y SSH
-│   └── 📄 00 - Índice.md
+│   └── 📁 MIDLAB/
 ├── 📁 M02 - Gestión de bases de datos/
-│   ├── 📁 01 - Sesiones/              # Modelo Entidad-Relación y diseño de BD
-│   ├── 📁 02 - Conceptos/             # SGBD, Normalización, Claves Primarias/Foráneas
-│   ├── 📁 03 - Comandos/              # Consultas y sentencias SQL
-│   └── 📄 00 - Índice.md
+│   
 ├── 📁 M04 - Lenguajes de marcas y sistemas de gestión/
-│   ├── 📁 01 - Sesiones/
-│   ├── 📁 02 - Conceptos/
-│   ├── 📁 03 - Comandos y sintaxis/  # HTML, CSS, XML, JSON
-│   └── 📄 00 - Índice.md
-└── 📁 Plantillas/                     # Plantillas estandarizadas para notas rápidas
-    ├── 📄 plantilla-conceptos.md
-    └── 📄 plantilla-comandos.md
 ```
 
 ---
