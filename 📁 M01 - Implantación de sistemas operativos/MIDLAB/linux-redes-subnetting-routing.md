@@ -193,7 +193,7 @@ Un `/25` tiene 2⁷ = 128 direcciones, de las que 126 son utilizables (se descue
 
 ---
 
-## Ejercicio 3 – Escenario e-commerce virtualizado
+## Ejercicio 3 – Escenario virtualizado
 
 Infraestructura para una PYME con tres equipos Ubuntu y dos redes internas. PC3 debe comunicarse con PC1 a través de PC2, y solo PC3 tiene acceso a Internet. Bloque reservado: `10.16.208.0` con máscara `255.255.254.0` (`/23`).
 
