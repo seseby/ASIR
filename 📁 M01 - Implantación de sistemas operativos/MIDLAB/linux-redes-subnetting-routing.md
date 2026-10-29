@@ -7,7 +7,7 @@ Práctica evaluable del módulo de Sistemas (ASIR, La Salle). Reúne tres ejerci
 - [Resumen](#resumen)
 - [Ejercicio 1 – Control básico de Linux vía terminal](#ejercicio-1--control-básico-de-linux-vía-terminal)
 - [Ejercicio 2 – Conexión entre máquinas](#ejercicio-2--conexión-entre-máquinas)
-- [Ejercicio 3 – Escenario e-commerce virtualizado](#ejercicio-3--escenario-e-commerce-virtualizado)
+- [Ejercicio 3 – Escenario virtualizado](#ejercicio-3--escenario-e-commerce-virtualizado)
 - [Conclusiones](#conclusiones)
 
 ## Resumen
