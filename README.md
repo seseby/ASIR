@@ -1,7 +1,6 @@
-[README.md](https://github.com/user-attachments/files/32473641/README.md)
-# 💻 ASIR - Vault de Apuntes & Laboratorios
+# 💻 ASIR - Vault de Laboratorios
 ##### 🚀 Ciclo Formativo de Grado Superior en Administración de Sistemas Informáticos en Red
-##### 👤 **Autor:** [@seseby](https://github.com/seseby) | 🎯 **Orientación:** Ciberseguridad & Pentesting
+##### 👤 **Autor:** [@seseby](https://github.com/seseby) | 🎯 **Orientación:** Ciberseguridad 
 
 ---
 
@@ -14,8 +13,6 @@ El objetivo de mantener esta bóveda pública es construir un **cuaderno de trab
 ---
 
 ## 📂 Estructura de la Bóveda (Obsidian Vault)
-
-La bóveda está organizada modularmente para separar la teoría, los conceptos fundamentales y la práctica de comandos:
 
 ```text
 📁 ASIR/
@@ -47,12 +44,6 @@ La bóveda está organizada modularmente para separar la teoría, los conceptos 
 | **Sistemas Operativos** | Linux (Ubuntu/Debian/Arch), Windows Server, PowerShell, Bash |
 | **Bases de Datos** | MySQL, MariaDB, SQL |
 | **Ciberseguridad & Redes** | Nmap, Wireshark, Burp Suite, Metasploit, TCP/IP, VPN |
-
----
-
-## 🔄 Sincronización Automática
-
-La bóveda se sincroniza automáticamente entre el entorno local de Obsidian y GitHub utilizando el plugin comunitario **Obsidian Git**, garantizando copias de seguridad continuas y un historial detallado de cambios.
 
 ---
 
